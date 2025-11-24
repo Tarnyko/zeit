@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Zeit
 Comment=Qt GUI for crontab and at
+Comment[fr]=Interface Qt pour crontab et at
 Exec=/usr/bin/zeit
 Icon=chronometer
 Terminal=false

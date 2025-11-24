@@ -32,9 +32,11 @@ SET(TRANSLATION
     ../translations/zeit_be_BY.ts
     ../translations/zeit_ru_RU.ts
     ../translations/zeit_sv_SE.ts
+    ../translations/zeit_fr_FR.ts
     ../translations/crontablib_be_BY.ts
     ../translations/crontablib_ru_RU.ts
     ../translations/crontablib_sv_SE.ts
+    ../translations/crontablib_fr_FR.ts
 )
 
 if(WITH_QT6)
